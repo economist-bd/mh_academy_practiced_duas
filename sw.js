@@ -1,4 +1,4 @@
-const cacheName = 'mh-academy-stories-v1';
+const cacheName = 'mh-academy-দৈনন্দিন জীবনের গুরুত্বপূর্ণ ১০০ দোয়া-v1';
 const assets = [
   '/',
   '/index.html',
