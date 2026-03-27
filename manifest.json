@@ -1,0 +1,21 @@
+{
+  "name": "MH Academy - Stories",
+  "short_name": "MH Stories",
+  "description": "নবী-রাসূলদের শিক্ষামূলক ও মজার গল্প।",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8F5E9",
+  "theme_color": "#FF9800",
+  "icons": [
+    {
+      "src": "2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
